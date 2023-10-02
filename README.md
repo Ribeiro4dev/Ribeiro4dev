@@ -37,3 +37,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro4dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
