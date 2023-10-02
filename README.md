@@ -14,8 +14,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="520px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -34,11 +32,8 @@
 <a href="https://www.linkedin.com/in/bruno-gabriel-ribeiro-esphera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/Ribeiro4dev">
-        <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro4dev&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-    <a href="https://github.com/Ribeiro4dev">
-        <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
+<div  align="left" style="margin-bottom:100px">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro4dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
