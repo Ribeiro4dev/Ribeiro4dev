@@ -1,3 +1,6 @@
+# Hi there! 👋
+#### I'm Bruno G. Ribeiro! a passionate Front-End Developer.
+
 #### 🌟 About Me
 - 👨‍💻 I'm learning front-end development, creating beautiful and user-friendly web interfaces.
 - 🚀 I'm enthusiastic about technology and innovation, always exploring the latest trends and best practices.
