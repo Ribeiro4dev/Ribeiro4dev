@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.animation-container {
+    text-align: center;
+}
+
+#animated-text {
+    font-size: 3em;
+    margin: 0;
+    letter-spacing: 8px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    animation: animateName 2s infinite;
+}
+
+@keyframes animateName {
+    0%, 100% {
+        letter-spacing: 8px;
+        transform: translateX(0);
+    }
+    50% {
+        letter-spacing: 16px;
+        transform: translateX(20px);
+    }
+}
